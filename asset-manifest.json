@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RobotWorld/static/css/main.a674ae03.chunk.css",
+    "main.js": "/RobotWorld/static/js/main.b665e650.chunk.js",
+    "main.js.map": "/RobotWorld/static/js/main.b665e650.chunk.js.map",
+    "runtime-main.js": "/RobotWorld/static/js/runtime-main.e058974c.js",
+    "runtime-main.js.map": "/RobotWorld/static/js/runtime-main.e058974c.js.map",
+    "static/css/2.31461e4f.chunk.css": "/RobotWorld/static/css/2.31461e4f.chunk.css",
+    "static/js/2.a2cad1df.chunk.js": "/RobotWorld/static/js/2.a2cad1df.chunk.js",
+    "static/js/2.a2cad1df.chunk.js.map": "/RobotWorld/static/js/2.a2cad1df.chunk.js.map",
+    "static/js/3.3796b969.chunk.js": "/RobotWorld/static/js/3.3796b969.chunk.js",
+    "static/js/3.3796b969.chunk.js.map": "/RobotWorld/static/js/3.3796b969.chunk.js.map",
+    "index.html": "/RobotWorld/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/RobotWorld/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.a674ae03.chunk.css.map": "/RobotWorld/static/css/main.a674ae03.chunk.css.map",
+    "static/js/2.a2cad1df.chunk.js.LICENSE.txt": "/RobotWorld/static/js/2.a2cad1df.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/RobotWorld/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e058974c.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.a2cad1df.chunk.js",
+    "static/css/main.a674ae03.chunk.css",
+    "static/js/main.b665e650.chunk.js"
+  ]
+}
